@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jkmunson, a 3rd year EE Student
 - 👀 I’m interested in Electrical Engineering, PCB Design, Computer Hardware Design, and Computer Science
 - 🌱 I’m currently learning about C++
-- 💞️ I’m looking to collaborate on Vulkan Rendering or Physics Simulation
+- 💞️ I’m looking to collaborate on Vulkan Rendering or PCB Design
 - 📫 How to reach me jkmunson@portalkerr.info
 
 <!---
